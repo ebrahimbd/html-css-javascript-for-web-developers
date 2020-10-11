@@ -1,3 +1,18 @@
+
+
+  
+body {
+ background: linear-gradient(to right, #78ffd6, #a8ff78 );
+font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, p,  h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 1px;
+ 
+}
+
+
+
+
 .container-fluid{
 	margin: 0;
 	padding: 0;
